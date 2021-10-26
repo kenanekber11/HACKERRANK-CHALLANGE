@@ -1,0 +1,13 @@
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.exe
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.deps.json
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.runtimeconfig.json
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.runtimeconfig.dev.json
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.dll
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.pdb
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.csprojAssemblyReference.cache
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.dll
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.pdb
+C:\Users\Kenan\source\repos\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.genruntimeconfig.cache
